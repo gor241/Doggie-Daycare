@@ -343,7 +343,7 @@ body {
 }
 .nemo__container {
   padding: 100px 87px 0px 87px;
-  background: #5d62b5 url(img/nemo_02/Blob.png) 10px 340px no-repeat;
+  background: #5d62b5 url(/img/nemo_02/Blob.png) 10px 340px no-repeat;
   border-radius: 40px;
   position: relative;
 }
@@ -354,7 +354,7 @@ body {
   right: -7.5%;
   height: 317px;
   width: 201px;
-  background: url(img/nemo_02/decor.svg) 0 0 no-repeat;
+  background: url(/img/nemo_02/decor.svg) 0 0 no-repeat;
 }
 .nemo__content {
   max-height: 60%;
@@ -372,7 +372,7 @@ body {
   text-transform: uppercase;
   color: #f5f5f5;
   padding: 0px 0px 0px 30px;
-  background: url(img/nemo_02/icon.svg) no-repeat;
+  background: url(/img/nemo_02/icon.svg) no-repeat;
 }
 .nemo__title {
   max-width: 590px;
@@ -416,7 +416,7 @@ body {
   font-size: 12px;
   line-height: 2;
   padding: 0px 0px 0px 30px;
-  background: url(img/sed_03/icon_svg.svg) left no-repeat;
+  background: url(/img/sed_03/icon_svg.svg) left no-repeat;
   letter-spacing: 2.5px;
   text-transform: uppercase;
   color: #5d62b5;
@@ -467,7 +467,7 @@ body {
 /*=====================================*/
 .proident {
   padding: 112px 0 169px 0;
-  background: url(img/proident_04/Blob.png) no-repeat, url(img/proident_04/Stylize_Circles.png) 0% 70% no-repeat;
+  background: url(/img/proident_04/Blob.png) no-repeat, url(/img/proident_04/Stylize_Circles.png) 0% 70% no-repeat;
   background-color: #21beb9;
   position: relative;
   overflow: hidden;
@@ -479,7 +479,7 @@ body {
   right: 8%;
   width: 650px;
   height: 417px;
-  background: url(img/proident_04/Line.png) no-repeat, url(img/proident_04/tennis_ball.png) 105% 64% no-repeat;
+  background: url(/img/proident_04/Line.png) no-repeat, url(/img/proident_04/tennis_ball.png) 105% 64% no-repeat;
   z-index: 1;
 }
 .proident::after {
@@ -489,7 +489,7 @@ body {
   left: -5%;
   width: 744px;
   height: 490px;
-  background: url(img/proident_04/dog.png) no-repeat;
+  background: url(/img/proident_04/dog.png) no-repeat;
   z-index: 1;
 }
 .proident__container {
@@ -530,7 +530,7 @@ body {
 /*=====================================*/
 .services {
   padding: 110px 0;
-  background: #f5f5f5 url(img/services_05/Blob.png) 100% 250% no-repeat;
+  background: #f5f5f5 url(/img/services_05/Blob.png) 100% 250% no-repeat;
   position: relative;
 }
 .services__container {
@@ -547,7 +547,7 @@ body {
 }
 .services__subtitle {
   padding: 0px 0px 0px 30px;
-  background: url(img/services_05/icon_svg.svg) left no-repeat;
+  background: url(/img/services_05/icon_svg.svg) left no-repeat;
   font-weight: 700;
   font-size: 12px;
   line-height: 200%;
@@ -654,7 +654,7 @@ body {
   left: -100px;
   position: absolute;
   z-index: -1;
-  background: url(img/make_06/Stylize_Circles.png) no-repeat, url(img/make_06/Blob.png) 40% 65% no-repeat;
+  background: url(/img/make_06/Stylize_Circles.png) no-repeat, url(/img/make_06/Blob.png) 40% 65% no-repeat;
 }
 .make__form {
   -webkit-box-flex: 0;
@@ -856,7 +856,7 @@ body {
   text-transform: uppercase;
   color: #ffffff;
   margin-bottom: 33px;
-  background: url(img/check_07/icon.svg) no-repeat;
+  background: url(/img/check_07/icon.svg) no-repeat;
 }
 .check__title {
   font-weight: 900;
@@ -925,7 +925,7 @@ body {
 /*=====================================*/
 .costomers {
   padding: 100px 0 210px 0;
-  background: #f5f5f5 url(img/check_07/Blob.png) 0% 100% no-repeat;
+  background: #f5f5f5 url(/img/check_07/Blob.png) 0% 100% no-repeat;
 }
 .costomers__container {
   display: -webkit-box;
@@ -950,7 +950,7 @@ body {
   color: #5d62b5;
   margin-bottom: 33px;
   padding: 0px 0px 0px 30px;
-  background: url(img/customers_08/icon_svg.svg) no-repeat;
+  background: url(/img/customers_08/icon_svg.svg) no-repeat;
 }
 .costomers__title {
   font-weight: 900;
@@ -1017,7 +1017,7 @@ body {
 /*=====================================*/
 .impuct {
   padding: 112px 0px 212px 0px;
-  background: #29c3be url(img/impact_09/Blob.png) 100% 0 no-repeat;
+  background: #29c3be url(/img/impact_09/Blob.png) 100% 0 no-repeat;
   position: relative;
 }
 .impuct__container {
@@ -1029,7 +1029,7 @@ body {
 }
 .impuct__subtitle {
   padding: 0px 0px 0px 30px;
-  background: url(img/impact_09/icon.svg) no-repeat;
+  background: url(/img/impact_09/icon.svg) no-repeat;
   font-weight: 700;
   font-size: 12px;
   line-height: 200%;
@@ -1238,16 +1238,16 @@ body {
   color: #4b4b4b;
 }
 .contact-logo__item:nth-child(1) {
-  background: url(img/footer/place.svg) 0 6px no-repeat;
+  background: url(/img/footer/place.svg) 0 6px no-repeat;
 }
 .contact-logo__item:nth-child(2) {
-  background: url(img/footer/smartphone.svg) 0 5px no-repeat;
+  background: url(/img/footer/smartphone.svg) 0 5px no-repeat;
 }
 .contact-logo__item:nth-child(3) {
-  background: url(img/footer/email.svg) 0 5px no-repeat;
+  background: url(/img/footer/email.svg) 0 5px no-repeat;
 }
 .contact-logo__item:nth-child(4) {
-  background: url(img/footer/timer.svg) 0 5px no-repeat;
+  background: url(/img/footer/timer.svg) 0 5px no-repeat;
 }
 
 /*=====================================*/
@@ -1676,7 +1676,7 @@ body {
   .costomers {
     margin: -50px 0px 0px 0px;
     padding: 60px 0px 100px 0px;
-    background: #f5f5f5 url(img/check_07/Blob.png) 0% 70% no-repeat;
+    background: #f5f5f5 url(/img/check_07/Blob.png) 0% 70% no-repeat;
     background-max-width: 70%;
     background-margin-bottom: 30px;
   }
@@ -1916,7 +1916,7 @@ body {
             flex: 1 1 100%;
   }
   .costomers {
-    background: #f5f5f5 url(img/check_07/Blob.png) 10% 70% no-repeat;
+    background: #f5f5f5 url(/img/check_07/Blob.png) 10% 70% no-repeat;
     background-margin-bottom: 30px;
   }
   .costomers__text {
