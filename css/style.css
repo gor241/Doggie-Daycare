@@ -1992,6 +1992,17 @@ body {
   .top-header__icon img {
     display: none;
   }
+  .top-header__logo {
+			flex: 0 0 40px;
+		}
+  .top-header__contacts {
+			margin: 0px 1.5%;
+		}
+	.top-header__button {
+			font-size: 7px;
+			letter-spacing: 0.08px;
+			padding: 5px 15px;
+		}
   .premier {
     padding: 200px 0 150px 0;
   }
@@ -2049,6 +2060,9 @@ body {
   .check__column:hover {
     padding: 8px;
   }
+  .costomers {
+		background: #f5f5f5 url(../img/check_07/Blob.png) 30% 65% no-repeat;
+	}
   .impuct {
     padding: 62px 0px 150px 0px;
   }
@@ -2111,6 +2125,9 @@ body {
   .check__container {
     padding: 26px 26px 126px 26px;
   }
+  .costomers {
+		background: #f5f5f5 url(../img/check_07/Blob.png) 40% 60% no-repeat;
+	}
   .impuct {
     padding: 40px 0px 110px 0px;
   }
